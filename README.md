@@ -19,3 +19,4 @@ Django: 2.0.2
 http://p96dsgm7r.bkt.clouddn.com/%E7%AC%AC%E4%B8%80%E7%AB%A0~2.mp4</br>
 把上面链接复制到视频--“访问地址” 里面就可以播放了。
 
+https://www.cnblogs.com/derek1184405959/p/8590360.html
